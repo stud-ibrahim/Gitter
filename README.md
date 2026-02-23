@@ -7,6 +7,7 @@ See [docs/overview.md](docs/overview.md) for an overview of the base module cont
 
 ## Template for a project
 this is a garabage simltiob projekt. 
+a blok of flats has tree containers a lefter center and right.
 
 ### My Smart City Project: [Project Name]
 
