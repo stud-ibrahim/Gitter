@@ -6,7 +6,7 @@ Get started by reading [docs/setup.md](docs/setup.md).
 See [docs/overview.md](docs/overview.md) for an overview of the base module content.
 
 ## Template for a project
-this is a garabage simltiob projekt 
+this is a garabage simltiob projekt. 
 
 ### My Smart City Project: [Project Name]
 
